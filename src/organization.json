@@ -1,0 +1,19 @@
+{
+    "organization": {
+        "organization1": {
+            "id": 1,
+            "name": "Water",
+            "staff": "100",
+        },
+        "organization2": {
+            "id": 2,
+            "name": "Fire",
+            "staff": "50"
+        },
+        "organization3": {
+            "id": 2,
+            "name": "Earth",
+            "staff": "20"
+        }      
+    }
+}
